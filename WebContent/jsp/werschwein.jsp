@@ -8,11 +8,10 @@
 
 	<article>
 		<header>
-			<h2>Group22 Member List</h2>
+			<h2>Hier wohnt ein Werschwein.</h2>
 		</header>
 		<ul>
-			<li><a href="<c:url value="/example" />">Example</a></li>
-			<li><a href="<c:url value="/werschwein" />">Werschwein</a></li>
+			<li><a href="<c:url value="/" />">Index</a></li>
 
 		</ul>
 	</article>
