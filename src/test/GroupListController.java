@@ -15,4 +15,9 @@ public class GroupListController {
 	{
 		return "example";
 	}
+	@RequestMapping("/andre")
+	public String to_andre() 
+	{
+		return "andre";
+	}
 }
