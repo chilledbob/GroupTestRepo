@@ -12,6 +12,7 @@
 		</header>
 		<ul>
 			<li><a href="<c:url value="/example" />">Example</a></li>
+			<li><a href="<c:url value="/sascha" />">Sascha</a>
 
 		</ul>
 	</article>
