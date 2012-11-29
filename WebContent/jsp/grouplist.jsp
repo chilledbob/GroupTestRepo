@@ -12,7 +12,6 @@
 		</header>
 		<ul>
 			<li><a href="<c:url value="/example" />">Example</a></li>
-			<li><a href="<c:url value="/werschwein" />">Werschwein</a></li>
 
 		</ul>
 	</article>
