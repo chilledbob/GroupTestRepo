@@ -19,9 +19,23 @@ local.properties
 build/
 
 .settings/
+<<<<<<< HEAD
 .classpath
 .project
 WebContent/META-INF/
 WebContent/WEB-INF/
 src/META-INF/
+=======
+
+.classpath
+
+.project
+
+WebContent/META-INF/
+
+WebContent/WEB-INF/
+
+src/META-INF/
+
+>>>>>>> refs/remotes/origin/master
 login.properties
