@@ -27,4 +27,10 @@ public class GroupListController {
 	{
 		return "sascha";
 	}
+
+	@RequestMapping("/werschwein")
+	public String to_werschwein() 
+	{
+		return "werschwein";
+	}
 }
