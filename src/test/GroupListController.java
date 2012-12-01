@@ -16,9 +16,21 @@ public class GroupListController {
 		return "example";
 	}
 	
+	@RequestMapping("/andre")
+	public String to_andre() 
+	{
+		return "andre";
+	}
+	
 	@RequestMapping("/sascha")
 	public String to_sascha() 
 	{
 		return "sascha";
+	}
+
+	@RequestMapping("/werschwein")
+	public String to_werschwein() 
+	{
+		return "werschwein";
 	}
 }
